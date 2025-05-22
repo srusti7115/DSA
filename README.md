@@ -1,1 +1,1 @@
-Today i learn how to imolement DIVIDE AND CONQUER using merge and quick sort
+Today i learn how to implement DIVIDE AND CONQUER using merge and quick sort
